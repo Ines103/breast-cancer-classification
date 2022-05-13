@@ -2,11 +2,19 @@
 
 Breast Cancer Classification using CNN and transfer learning
 
-## IMPORTANT
+## Contribution
 
-Absolutely, under NO circumstance, should one ever screen patients using computer vision software trained with this code (or any home made software for that matter). 
+Thank you for your interest in our project. There are many ways to contribute,
+and we appreciate all of them :
 
-Check out the corresponding medium blog post [https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9](https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9).
+- Source code
+- Unit tests
+- Bug Reports
+- Documentation
+- Localization (Translation)
+- etc
+
+Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LICENSE).
 
 ## Data
 
@@ -97,13 +105,21 @@ If you find this code useful in your research, please consider citing the blog:
   Journal = {Towards Data Science},
 }
 ```
+## Authors / Contributors
+
+The project was originally developed by:
+
+- [Ines Bellaaj](https://github.com/Ines103)
+- [Mohamed Achraf Liratni](https://github.com/MohamedLiratni)
+- [Ines Ayari](https://github.com/Ines15Ayari)
+- [Syrine Trabelsi](https://github.com/Syrine0)
 
 ## License
 
 ```
 MIT License
 
-Copyright (c) 2019 Abhinav Sagar
+Copyright (c) 2022 Ines Bellaaj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
